@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe.config
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\bin\Debug\Text_Editor.pdb
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.Form1.resources
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.exe
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.pdb
